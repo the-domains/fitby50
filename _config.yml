@@ -1,0 +1,28 @@
+name: Fit by 50
+favicon: null
+layout_spectrum: 0.04028438706882298
+typography_spectrum: 0.5601890962570906
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.06845959555357695
+  lightness: 0.32435161457397044
+  saturation: 0.883829670259729
+  rhythmicContrast: 0.35626060352660716
+purpose: []
