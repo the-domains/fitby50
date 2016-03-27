@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'http://muscletransform.com/the-deadlift-exercise-anatomy/'
-datePublished: '2016-03-27T18:36:44.807Z'
-dateModified: '2016-03-27T18:36:35.948Z'
+description: FROM MUSCLETRANSFORM.COM
+datePublished: '2016-03-27T19:47:17.977Z'
+dateModified: '2016-03-27T19:44:23.495Z'
 title: The DEADLIFT Exercise Anatomy
 author: []
+sourcePath: _posts/2016-03-27-the-deadlift-exercise-anatomy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-27-the-deadlift-exercise-anatomy.md
-published: true
 url: the-deadlift-exercise-anatomy/index.html
 _type: Article
 
