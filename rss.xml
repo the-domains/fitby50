@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Fit by 50]]></title>
         <description><![CDATA[Fit by 50]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fitby50/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 18:36:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Mar 2016 19:47:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fitby50/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The DEADLIFT Exercise Anatomy]]></title>
-            <description><![CDATA[<article><h1>The DEADLIFT Exercise Anatomy</h1><p>http://muscletransform.com/the-deadlift-exercise-anatomy/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71951228702fd6d9a94e22387b5c530c8045eefd.jpg"></article>]]></description>
-            <link>undefinedthe-deadlift-exercise-anatomy/index.html</link>
+            <description><![CDATA[<article><h1>The DEADLIFT Exercise Anatomy</h1><p>FROM MUSCLETRANSFORM.COM</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71951228702fd6d9a94e22387b5c530c8045eefd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/fitby50/the-deadlift-exercise-anatomy/index.html</link>
             <guid isPermaLink="false">a074574d-cd24-443b-9115-0520f7c81bc8</guid>
-            <pubDate>Sun, 27 Mar 2016 18:36:44 GMT</pubDate>
+            <pubDate>Sun, 27 Mar 2016 19:47:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
