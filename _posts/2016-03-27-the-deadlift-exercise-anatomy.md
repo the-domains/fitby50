@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: FROM MUSCLETRANSFORM.COM
-datePublished: '2016-03-27T19:47:17.977Z'
-dateModified: '2016-03-27T19:44:23.495Z'
+datePublished: '2016-04-15T05:07:51.726Z'
+dateModified: '2016-04-15T05:07:51.370Z'
 title: The DEADLIFT Exercise Anatomy
 author: []
 sourcePath: _posts/2016-03-27-the-deadlift-exercise-anatomy.md
